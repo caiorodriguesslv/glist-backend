@@ -1,6 +1,7 @@
 package com.caio.GList.dto;
 
 import com.caio.GList.entities.Game;
+import com.caio.GList.projections.GameMinProjection;
 
 public class GameMinDTO {
 
@@ -11,6 +12,14 @@ public class GameMinDTO {
 	private String shortDescription;
 
 	public GameMinDTO() {
+	}
+	
+	public GameMinDTO(GameMinProjection projection) {
+		id = projection.getId();
+		title = projection.getTitle();
+		year = projection.getYear();
+		imgUrl = projection.getImgUrl();
+		shortDescription = projection.getShortDescription();
 	}
 
 	public GameMinDTO(Game entity) {
