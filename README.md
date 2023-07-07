@@ -9,7 +9,7 @@ Backend do sistema de coleções de jogos desenvolvido utilizando SpringBoot (Si
 * Java JDK-17
 * H2 Database (Base de dados em memória), porém o sistema pode ser integrado ao PostgreSQL.
 * [Postman](https://interstellar-moon-715825.postman.co/workspace/ds-list~1c4dcd09-ac12-4935-8f55-4886995de961/collection/21958705-c60af89f-0462-4a27-b995-39488d190c02?action=share&creator=21958705)
-* 
+  
 
 
 ## 🛠️ Informações adicionais: 
