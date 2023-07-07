@@ -1,5 +1,5 @@
 ## ⓘ Sobre 
-Backend do sistema de coleções de jogos desenvolvido utilizando SpringBoot (Sistema de Estudo). 
+Backend do sistema de coleções de jogos desenvolvido utilizando SpringBoot (Sistema de Estudo) (API REST). 
     
 
 ## 💻 Tecnologias utilizadas:
@@ -8,6 +8,7 @@ Backend do sistema de coleções de jogos desenvolvido utilizando SpringBoot (Si
 * Apache Maven (Injetor de depedências)
 * Java JDK-17
 * H2 Database (Base de dados em memória), porém o sistema pode ser integrado ao PostgreSQL.
+* Postman (Testador de Requisições)
 
 
 ## 🛠️ Informações adicionais: 
