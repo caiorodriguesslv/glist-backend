@@ -27,7 +27,7 @@ Backend do sistema de coleções de jogos desenvolvido utilizando SpringBoot (Si
     <img src="https://github.com/caiorodriguesslv/GList-backend/assets/101218403/9fa0c31a-edd9-40c1-a90f-68041f0d602b"/> 
 </div>
 
-<p align="center">3º Imaginação da possível Interface Gráfica implementada ao backend</p>
+<p align="center">3º Possível Interface Gráfica implementada ao backend</p>
 
 <div align="center"> 
     <img src="https://github.com/caiorodriguesslv/GList-backend/assets/101218403/1e8dc9d8-eeaf-4855-a889-8889edfbc732"/> 
